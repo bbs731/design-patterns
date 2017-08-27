@@ -1,3 +1,4 @@
+//http://marcio.io/2015/07/singleton-pattern-in-go/
 package singleton
 
 import (
